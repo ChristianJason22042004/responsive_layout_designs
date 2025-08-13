@@ -1,9 +1,0 @@
-steps for netlfix clone :
-
-
-
-step-1 -> create a  background image in main 
-
-step-2 -> create a box class in main and opacity to visualize the text 
-
-step-3 -> navbar -> span(netflix logo) -> buttons 
