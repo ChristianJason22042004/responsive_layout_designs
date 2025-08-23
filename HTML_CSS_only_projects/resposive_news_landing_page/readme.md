@@ -39,4 +39,21 @@ Demonstration of HTML + CSS craftsmanship in portfolios.
 Starter foundation for scalable web projects.
 
 
+🖥️ Desktop View
+
 <img width="1920" height="6045" alt="image" src="https://github.com/user-attachments/assets/f9b6e997-1705-4f32-bc1c-8b3b74417fb1" />
+
+
+
+
+
+
+📱 Mobile View
+
+<img width="383" height="8809" alt="screencapture-file-C-Users-chris-OneDrive-Desktop-WebDev-Jason-HTML-CSS-only-projects-resposive-news-landing-page-index-html-2025-08-23-19_47_37" src="https://github.com/user-attachments/assets/0d9628ac-0be4-4ff5-ad2c-8ca6d055f0f8" />
+
+
+
+
+
+
