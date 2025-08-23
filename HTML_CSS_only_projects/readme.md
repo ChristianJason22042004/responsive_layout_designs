@@ -2,9 +2,12 @@
 
 A modern, responsive Weather Card UI built with HTML & CSS, featuring smooth animations, transforms, and gradients for a clean and interactive experience.
 
+
+
 ✨ Features
 
 📱 Responsive Design – adapts to desktop and mobile screens.
+
 
 🎨 Custom Gradient Background – smooth color transitions.
 
@@ -13,6 +16,8 @@ A modern, responsive Weather Card UI built with HTML & CSS, featuring smooth ani
 ⚡ Hover Animation – card lifts with a subtle shadow effect.
 
 🔲 Rounded & Minimal Layout – clean, modern design.
+
+
 
 ⚡ How It Works
 
@@ -42,6 +47,8 @@ On desktop, the card has spacious padding and shadow depth.
 
 On mobile, the layout adjusts with optimized font sizes and spacing.
 
+
+
 🛠️ Tech Stack
 
 HTML5 – semantic and structured markup.
@@ -55,5 +62,6 @@ Advanced CSS transforms & transitions.
 Responsive, mobile-first UI design.
 
 Creative use of CSS-only graphics (sun & clouds).
+
 
 Minimalist UI/UX principles.
