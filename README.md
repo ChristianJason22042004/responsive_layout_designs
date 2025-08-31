@@ -45,10 +45,10 @@ cd responsive_layout_designs
 git sparse-checkout init --cone
 git sparse-checkout set netflix_clone
 
-
-```
-
 Replace netflix_clone with animated_card or responsive_news_landing_page to clone other folders.
+
+
+
 
 
 
