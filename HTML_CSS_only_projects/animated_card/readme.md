@@ -55,5 +55,7 @@ A modern, responsive **Weather Card UI** built with **HTML & CSS**, featuring sm
 
 ```bash
 .
-├── index.html   # Main HTML file
-├── style.css    # Styling with Flexbox, Animations, Transforms
+├── csscard.html   # Main HTML file
+├── styles3.css   # Styling with Flexbox, Animations, Transforms
+├── sun.png      # For Favicon
+   
