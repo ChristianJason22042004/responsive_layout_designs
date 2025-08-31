@@ -48,11 +48,9 @@ git sparse-checkout set netflix_clone
 
 ```
 
----
-
 Replace netflix_clone with animated_card or responsive_news_landing_page to clone other folders.
 
-📌 About This Work
-These projects reflect my hands-on approach to front-end development, focusing on clarity, layout mastery, and real-world UI simulation. Built without JavaScript to emphasize the power and flexibility of HTML and CSS alone.
+
+
 
 
