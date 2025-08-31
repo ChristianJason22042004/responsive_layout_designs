@@ -6,7 +6,8 @@ A modern, responsive **Weather Card UI** built with **HTML & CSS**, featuring sm
 
 ## 🚀 Preview
 <!-- Add your project screenshot or GIF here -->
-![Weather Card Preview](<img width="935" height="440" alt="Screenshot 2025-08-31 101917" src="https://github.com/user-attachments/assets/c49c7795-d66c-4e0f-9ed3-fc24595d3d8d" />
+![Weather Card Preview](<img width="935" height="440" alt="Screenshot 2025-08-31 101917" src="https://github.com/user-attachments/assets/910e7316-259e-43a3-8716-eb520820722d" />
+ >
 )
 
 ---
