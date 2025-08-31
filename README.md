@@ -31,11 +31,6 @@ This repository showcases my ability to build responsive, professional-grade use
 
 ---
 
-🌐 Live Preview  
-Explore the deployed projects:  
-🔗 [GitHub Pages](https://christianjason22042004.github.io/responsive_layout_designs)
-
----
 
 📦 Cloning Instructions
 
@@ -56,5 +51,4 @@ Replace netflix_clone with animated_card or responsive_news_landing_page to clon
 📌 About This Work
 These projects reflect my hands-on approach to front-end development, focusing on clarity, layout mastery, and real-world UI simulation. Built without JavaScript to emphasize the power and flexibility of HTML and CSS alone.
 
-Let me know if you want to add a short “About Me” section or link this to your portfolio or LinkedIn. I can help you phrase it to match your style and goals.
 
