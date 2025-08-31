@@ -1,70 +1,66 @@
-🌦️ Weather Card
+# 🌦️ Weather Card
 
-A modern, responsive Weather Card UI built with HTML & CSS, featuring smooth animations, transforms, and gradients for a clean and interactive experience.
+A modern, responsive **Weather Card UI** built with **HTML & CSS**, featuring smooth animations, transforms, and gradients for a clean and interactive experience.
 
+---
 
+## 🚀 Preview
+<!-- Add your project screenshot or GIF here -->
+![Weather Card Preview](<img width="935" height="440" alt="Screenshot 2025-08-31 101917" src="https://github.com/user-attachments/assets/c49c7795-d66c-4e0f-9ed3-fc24595d3d8d" />
+)
 
-✨ Features
+---
 
-📱 Responsive Design – adapts to desktop and mobile screens.
+## ✨ Features
 
+✅ **Responsive Design** – adapts to desktop and mobile screens  
+✅ **Custom Gradient Background** – smooth color transitions  
+✅ **CSS Weather Illustration** – sun and cloud icons styled in pure CSS  
+✅ **Hover Animation** – card lifts with a subtle shadow effect  
+✅ **Rounded & Minimal Layout** – clean, modern design  
 
-🎨 Custom Gradient Background – smooth color transitions.
+---
 
-🌤️ Weather Illustration – sun and cloud icons styled in pure CSS.
+## ⚡ How It Works
 
-⚡ Hover Animation – card lifts with a subtle shadow effect.
+### 🖼️ Card Layout
+- Displays **location, date, temperature, and unit (°C)**  
+- Built with **flexbox** for clean alignment  
 
-🔲 Rounded & Minimal Layout – clean, modern design.
+### 🌤️ Visual Elements
+- Sun & clouds created with **pure CSS shapes**  
+- Temperature highlighted with **large, bold typography**  
 
+### 🎬 Animations & Transforms
+- On hover → CSS `transform: scale + translateY` makes the card “lift”  
+- Smooth **box-shadow transition** for floating effect  
+- Subtle **gradient background shift** for a dynamic look  
 
+### 📱 Responsiveness
+- **Desktop:** spacious padding & shadow depth  
+- **Mobile:** optimized font sizes & spacing  
 
-⚡ How It Works
+---
 
-Card Layout
+## 🛠️ Tech Stack
 
-The card displays location, date, temperature, and unit (Celsius).
+- 🖋 **HTML5** – semantic, structured markup  
+- 🎨 **CSS3** – Flexbox, Grid, Animations, Transforms, Gradients  
 
-Designed with flexbox alignment for clean positioning.
+---
 
-Visual Elements
+## 🎯 Skills Highlighted
 
-The sun and clouds are created with CSS shapes, positioned at the top-right.
+- Advanced **CSS transforms & transitions**  
+- Responsive, **mobile-first UI design**  
+- Creative use of **CSS-only graphics (sun & clouds)**  
+- Minimalist **UI/UX principles**  
 
-Temperature is emphasized with large typography for quick readability.
+---
 
-Animations & Transforms
+## 📂 Project Structure
 
-On hover, the card uses a CSS transform (scale & translateY) to “lift” off the background.
-
-A box-shadow transition enhances the floating effect.
-
-The gradient background subtly shifts for a dynamic, smooth look.
-
-Responsiveness
-
-On desktop, the card has spacious padding and shadow depth.
-
-On mobile, the layout adjusts with optimized font sizes and spacing.
-
-
-
-🛠️ Tech Stack
-
-HTML5 – semantic and structured markup.
-
-CSS3 – Flexbox, Grid, Animations, Transforms, Gradients.
-
-
-
-🎯 Skills Highlighted
-
-Advanced CSS transforms & transitions.
-
-Responsive, mobile-first UI design.
-
-Creative use of CSS-only graphics (sun & clouds).
-
-Minimalist UI/UX principles.
-
-
+```bash
+.
+├── index.html   # Main HTML file
+├── style.css    # Styling with Flexbox, Animations, Transforms
