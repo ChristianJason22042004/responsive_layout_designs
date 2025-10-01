@@ -38,12 +38,14 @@ This repository showcases my ability to build responsive, professional-grade use
 
 ```bash
 git clone https://github.com/ChristianJason22042004/responsive_layout_designs.git
+```
 
 To clone a specific project folder (e.g., netflix_clone) using Git Sparse Checkout:
+
+```bash
 git clone --filter=blob:none --no-checkout https://github.com/ChristianJason22042004/responsive_layout_designs.git
 cd responsive_layout_designs
 git sparse-checkout init --cone
 git sparse-checkout set netflix_clone
-
-Replace netflix_clone with animated_card or responsive_news_landing_page to clone other folders.
 ```
+Replace netflix_clone with animated_card or responsive_news_landing_page to clone other folders.
