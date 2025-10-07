@@ -1,8 +1,8 @@
 Responsive News Landing Page
 
-
 A responsive landing page built with semantic HTML5 and modern CSS3, designed to demonstrate clean UI/UX practices, responsive layouts, and accessibility principles — all without external frameworks.
 
+---
 
 ✨ Key Highlights
 
@@ -14,6 +14,7 @@ Accessibility Focused → Semantic markup and color contrast alignment.
 
 Performance Optimized → Lightweight, fast-loading, and framework-free.
 
+---
 
 📐 Technical Stack
 
@@ -23,6 +24,7 @@ CSS3 (Flexbox + Grid) → Responsive layouts without JS or libraries.
 
 Media Queries → Smooth adaptation across breakpoints.
 
+---
 
 🎯 Objective
 
@@ -34,6 +36,7 @@ Responsive UI engineering using pure CSS techniques.
 
 Design thinking for clean, scalable, and user-friendly web experiences.
 
+---
 
 🌍 Use Cases
 
