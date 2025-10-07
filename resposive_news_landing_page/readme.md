@@ -1,5 +1,3 @@
-Responsive News Landing Page
-
 A responsive landing page built with semantic HTML5 and modern CSS3, designed to demonstrate clean UI/UX practices, responsive layouts, and accessibility principles — all without external frameworks.
 
 ---
