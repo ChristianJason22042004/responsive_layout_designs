@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # 🌐 Responsive News Landing Page (HTML5 + CSS3)
 
 A **responsive landing page** built using **semantic HTML5** and **modern CSS3**, showcasing clean **UI/UX practices**, **accessibility principles**, and **responsive layouts** — all **without external frameworks**.
@@ -63,3 +64,51 @@ Jason Ranison Christian
 
 💼 LinkedIn Profile
 https://www.linkedin.com/in/jasonranisonchristian/
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm a web developer passionate about building user-friendly websites.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Here are some of my projects:</p>
+        <ul>
+            <li>Project 1: Portfolio Website</li>
+            <li>Project 2: To-Do List App</li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <p>HTML, CSS, JavaScript, React</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: example@email.com</p>
+    </section>
+</body>
+</html>
+>>>>>>> Stashed changes
